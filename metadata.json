@@ -1,0 +1,6 @@
+{
+  "name": "Student Welcome",
+  "description": "An elegant student welcome app that greets students by name with style.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
